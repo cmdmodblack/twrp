@@ -128,7 +128,8 @@ TW_USE_FSCRYPT_POLICY := 1
 
 # TWRP Configuration
 TW_THEME := portrait_hdpi
-TW_EXTRA_LANGUAGES := false
+TW_EXTRA_LANGUAGES := ture
+TW_DEFAULT_LANGUAGE := zh_CN
 TW_BRIGHTNESS_PATH := /sys/class/leds/lcd-backlight/brightness
 TW_MAX_BRIGHTNESS := 255
 TW_DEFAULT_BRIGHTNESS := 100
